@@ -1,5 +1,5 @@
 import BookingApp from '../assets/projects/bookingapp.jpg'
-import ShoppingCart from '../assets/projects/shoppingcart.jpg'
+import ComfySloth from '../assets/projects/comfy sloth.jpg'
 import YoutubeClone from '../assets/projects/youtube.jpg'
 import QouteGenerator from '../assets/projects/qoutegenerator.jpg'
 
@@ -20,10 +20,10 @@ export const data=[
     },
     {
         id:3,
-        name:"Shopping Cart",
-        image:ShoppingCart,
-        live:"https://soping-cart-souvinirs.vercel.app/",
-        github:'https://github.com/heba892/Soping-cart-souvinirs'
+        name:"Comfy Sloth",
+        image:ComfySloth,
+        live:"https://comfy-slooth.vercel.app/",
+        github:'https://github.com/heba892/comfy-slooth'
     },
     {
         id:4,
