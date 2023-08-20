@@ -1,6 +1,8 @@
 import BookingApp from '../assets/projects/bookingapp.jpg'
-import ComfySloth from '../assets/projects/comfy sloth.jpg'
+import ComfySloth from '../assets/projects/comfysmoth.jpg'
 import YoutubeClone from '../assets/projects/youtube.jpg'
+import Comfy from '../assets/projects/comfy.jpg'
+
 import QouteGenerator from '../assets/projects/qoutegenerator.jpg'
 
 export const data=[
@@ -29,6 +31,13 @@ export const data=[
         id:4,
         name:"Quote Generator",
         image:QouteGenerator,
+        live:"https://quote-generator-blue-eight.vercel.app/",
+        github:'https://github.com/heba892/Quote-generato'
+    },
+    {
+        id:5,
+        name:"Quote Generator",
+        image:Comfy,
         live:"https://quote-generator-blue-eight.vercel.app/",
         github:'https://github.com/heba892/Quote-generato'
     },
