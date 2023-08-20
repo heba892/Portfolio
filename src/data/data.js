@@ -34,13 +34,7 @@ export const data=[
         live:"https://quote-generator-blue-eight.vercel.app/",
         github:'https://github.com/heba892/Quote-generato'
     },
-    {
-        id:5,
-        name:"Quote Generator",
-        image:Comfy,
-        live:"https://quote-generator-blue-eight.vercel.app/",
-        github:'https://github.com/heba892/Quote-generato'
-    },
+    
 
 
 ]
