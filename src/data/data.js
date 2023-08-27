@@ -1,9 +1,10 @@
 import BookingApp from '../assets/projects/bookingapp.jpg'
 import ComfySloth from '../assets/projects/comfysmoth.jpg'
 import YoutubeClone from '../assets/projects/youtube.jpg'
-import Comfy from '../assets/projects/comfy.jpg'
+import Admin from '../assets/projects/admin.png'
+import Weather from '../assets/projects/weather.png'
 
-import QouteGenerator from '../assets/projects/qoutegenerator.jpg'
+import QuoteGenerator from '../assets/projects/qoutegenerator.jpg'
 
 export const data=[
     {
@@ -22,18 +23,25 @@ export const data=[
     },
     {
         id:3,
-        name:"Booking App",
-        image:BookingApp,
-        live:"https://booking-app-6s1j.vercel.app/",
-        github:'https://github.com/heba892/booking-app'
+        name:"Admin Dashboard",
+        image:Admin,
+        live:"https://admin-dashboard2-eta.vercel.app/",
+        github:'https://github.com/heba892/Admin-Shop'
     },
     
     {
         id:4,
         name:"Quote Generator",
-        image:QouteGenerator,
+        image:QuoteGenerator,
         live:"https://quote-generator-blue-eight.vercel.app/",
         github:'https://github.com/heba892/Quote-generato'
+    },
+    {
+        id:5,
+        name:"Weather App",
+        image:Weather,
+        live:"https://weather-app-psi-three-25.vercel.app/",
+        github:'https://github.com/heba892/weather-app'
     },
     
 
